@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">PermissionHelper</string>
+
+    <string name="rt_kill_protect_description">Android 由于省电设置与后台进程限制，可能会将正在记录运动的 智慧通 关闭或者导致部分运动记录数据缺失。如果您遇到了相关问题，可参照如下方法设置。</string>
+    <string name="rt_battery_opt_settings_title">电池优化</string>
+    <string name="rt_power_save_settings_description">在省电模式下，智慧通 的运行仍然可能受到限制。开始运动时应尽量使得电量处于相对充足的状态，并且关闭省电模式。相关设置入口一般在状态栏或者电池相关设置。</string>
+    <string name="rt_battery_opt_enabled">已开启电池优化，点击关闭</string>
+    <string name="rt_battery_opt_close">电池优化已关闭</string>
+    <string name="rt_background_settings_title">后台保护设置</string>
+    <string name="rt_quick_settings_background">打开后台保护系统设置</string>
+    <string name="rt_battery_settings_title">省电模式</string>
+    <string name="rt_battery_settings_description">由于系统的省电设置，会让 app 进入冻结状态。为保证记录运动数据等后台活动不受影响，请将 智慧通 加入电池优化白名单中。</string>
+    <string name="rt_quick_settings_sleep">打开防睡眠系统设置</string>
+
+    <string name="rt_open_quick_settings_failed_tip">暂不支持您手机的快速跳转，请自行进行设置</string>
 </resources>

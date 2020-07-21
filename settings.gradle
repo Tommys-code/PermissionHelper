@@ -1,2 +1,3 @@
+include ':permossionhelper'
 include ':app'
 rootProject.name = "PermissionHelper"

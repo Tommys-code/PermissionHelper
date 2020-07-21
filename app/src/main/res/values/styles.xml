@@ -7,4 +7,35 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="RtSettingsTextDesc">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">@color/gray_66</item>
+        <item name="android:lineSpacingExtra">5.0sp</item>
+    </style>
+    <style name="RtSettingsTextTitle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/gray_33</item>
+        <item name="android:height">21.0dip</item>
+    </style>
+    <style name="SettingButtonMainWhite">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50.0dip</item>
+        <item name="android:layout_marginLeft">46.0dip</item>
+        <item name="android:layout_marginTop">46.0dip</item>
+        <item name="android:layout_marginRight">46.0dip</item>
+    </style>
+    <style name="RtSettingsMainButton" parent="@style/SettingButtonMainWhite">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:padding">8.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginTop">12.0dip</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style>
+
 </resources>

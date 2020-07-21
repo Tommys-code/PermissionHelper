@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">app</string>
+
+    <string name="auto_start_tip_coolpad">设置方法：酷管家 -> 软件管理 -> 自启动管理 -> 打开 %1$s 的开关 。</string>
+    <string name="auto_start_tip_default">设置方法：请到 安全中心 - 权限管理 的 自启动管理 中，勾选 %1$s。</string>
+    <string name="auto_start_tip_huawei">设置方法：手机管家 -> 应用启动管理 -> 关闭自动管理 %1$s 并打开各允许启动开关。</string>
+    <string name="auto_start_tip_lenovo">设置方法：安全中心 -> 权限管理 -> 自启动 -> 打开 %1$s 的开关 。</string>
+    <string name="auto_start_tip_letv">设置方法：管家 -> 安全隐私 -> 自启动管理 -> 打开 %1$s 的开关 。</string>
+    <string name="auto_start_tip_meizu">设置方法：手机管家 -> 权限管理 -> 后台管理 -> 找到 %1$s -> 保持后台运行 。</string>
+    <string name="auto_start_tip_oppo">设置方法：手机管家 -> 权限隐私 -> 管理自启动应用 -> 允许 %1$s 自启动 。</string>
+    <string name="auto_start_tip_samsung_cn">设置方法：智能管理器 -> 自动运行应用程序 -> 打开 %1$s 的开关 。</string>
+    <string name="auto_start_tip_smartisan">设置方法：设置 -> 安全中心 -> 应用程序权限管理 -> 自启动权限管理 -> %1$s -> 允许被系统启动 。</string>
+    <string name="auto_start_tip_vivo">设置方法：i 管家 -> 应用管理 -> 权限管理 -> 自启动 -> 打开 %1$s 对应的开关 。</string>
+    <string name="auto_start_tip_xiaomi">设置方法：安全中心 -> 授权管理 -> 自启动管理 -> 打开 %1$s 的开关 。</string>
+    <string name="auto_start_tip_zte">设置方法：掌心管家 -> 自启动管理 -> 打开 %1$s 的开关 。</string>
+
+    <string name="sleep_tip_default">设置方法：请到 安全中心 - 应用智能省电 中，将 %1$s 设置为 无限制 。</string>
+    <string name="sleep_tip_huawei">设置方法：手机管家 -> 电池 -> 耗电排行 -> 找到并点击 %1$s -> 点击应用启动管理 -> 关闭自动管理 %1$s 并打开各允许启动开关。</string>
+    <string name="sleep_tip_lenovo">设置方法：设置 -> 省电管理 -> 待机省电 -> 打开 %1$s 的开关 。</string>
+    <string name="sleep_tip_letv">设置方法：管家 -> 省电管理 -> 应用保护 -> 打开 %1$s 的开关 。</string>
+    <string name="sleep_tip_meizu">设置方法：手机管家 -> 省电模式 -> 待机耗电管理 -> 打开 %1$s 的开关 。</string>
+    <string name="sleep_tip_oppo">设置方法：设置 -> 电池 -> %1$s -> 取消后台冻结 和 异常自动优化 。</string>
+    <string name="sleep_tip_samsung_cn">设置方法：智能管理器 -> 电池 -> 找到并点击 %1$s -> 关闭使应用程序进入休眠</string>
+    <string name="sleep_tip_vivo">设置方法：i 管家 -> 电池管理 -> 后台高耗电 -> 打开 %1$s 对应的开关 。</string>
+    <string name="sleep_tip_xiaomi">设置方法：安全中心 -> 应用智能省电 -> %1$s -> 无限制 。</string>
+</resources>

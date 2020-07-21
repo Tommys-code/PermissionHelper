@@ -1,4 +1,4 @@
-package com.tommy.shen.permissionhelper
+package com.tommy.shen.demo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

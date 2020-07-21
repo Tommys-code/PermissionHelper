@@ -1,4 +1,4 @@
-package com.tommy.shen.permissionhelper
+package com.tommy.shen.demo
 
 import org.junit.Test
 
